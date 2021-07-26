@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="372967" started-at="2021-07-26T16:59:08 IST" finished-at="2021-07-26T17:05:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="372967" started-at="2021-07-26T16:59:08 IST" finished-at="2021-07-26T17:05:21 IST">
+      <class name="com.myTestCases.DashBoardPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="setUp" is-config="true" duration-ms="9277" started-at="2021-07-26T17:00:19 IST" finished-at="2021-07-26T17:00:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitleOfPage()[pri:1, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="getTitleOfPage" duration-ms="62461" started-at="2021-07-26T17:00:28 IST" finished-at="2021-07-26T17:01:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="tearDown" is-config="true" duration-ms="1004" started-at="2021-07-26T17:01:30 IST" finished-at="2021-07-26T17:01:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="setUp" is-config="true" duration-ms="10140" started-at="2021-07-26T17:01:31 IST" finished-at="2021-07-26T17:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printCountOfMainMenuItems()[pri:2, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="printCountOfMainMenuItems" duration-ms="63207" started-at="2021-07-26T17:01:41 IST" finished-at="2021-07-26T17:02:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCountOfMainMenuItems -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="tearDown" is-config="true" duration-ms="1262" started-at="2021-07-26T17:02:45 IST" finished-at="2021-07-26T17:02:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="setUp" is-config="true" duration-ms="9696" started-at="2021-07-26T17:02:46 IST" finished-at="2021-07-26T17:02:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printNameOfMainMenuItems()[pri:3, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="printNameOfMainMenuItems" duration-ms="62846" started-at="2021-07-26T17:02:56 IST" finished-at="2021-07-26T17:03:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printNameOfMainMenuItems -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="tearDown" is-config="true" duration-ms="898" started-at="2021-07-26T17:03:58 IST" finished-at="2021-07-26T17:03:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="setUp" is-config="true" duration-ms="16217" started-at="2021-07-26T17:03:59 IST" finished-at="2021-07-26T17:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printDashBoardItems()[pri:4, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="printDashBoardItems" duration-ms="64261" started-at="2021-07-26T17:04:16 IST" finished-at="2021-07-26T17:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printDashBoardItems -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.DashBoardPageTest@703580bf]" name="tearDown" is-config="true" duration-ms="874" started-at="2021-07-26T17:05:20 IST" finished-at="2021-07-26T17:05:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTestCases.DashBoardPageTest -->
+      <class name="com.myTestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="setUp" is-config="true" duration-ms="16333" started-at="2021-07-26T16:59:08 IST" finished-at="2021-07-26T16:59:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitleOfPage()[pri:1, instance:com.myTestCases.LoginPageTest@63021689]" name="getTitleOfPage" duration-ms="896" started-at="2021-07-26T16:59:25 IST" finished-at="2021-07-26T16:59:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="tearDown" is-config="true" duration-ms="1702" started-at="2021-07-26T16:59:26 IST" finished-at="2021-07-26T16:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="setUp" is-config="true" duration-ms="9393" started-at="2021-07-26T16:59:28 IST" finished-at="2021-07-26T16:59:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logintoApplication()[pri:2, instance:com.myTestCases.LoginPageTest@63021689]" name="logintoApplication" duration-ms="29282" started-at="2021-07-26T16:59:37 IST" finished-at="2021-07-26T17:00:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApplication -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="tearDown" is-config="true" duration-ms="972" started-at="2021-07-26T17:00:06 IST" finished-at="2021-07-26T17:00:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="setUp" is-config="true" duration-ms="9937" started-at="2021-07-26T17:00:07 IST" finished-at="2021-07-26T17:00:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkForgetLink()[pri:3, instance:com.myTestCases.LoginPageTest@63021689]" name="checkForgetLink" duration-ms="218" started-at="2021-07-26T17:00:17 IST" finished-at="2021-07-26T17:00:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForgetLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myTestCases.LoginPageTest@63021689]" name="tearDown" is-config="true" duration-ms="1021" started-at="2021-07-26T17:00:18 IST" finished-at="2021-07-26T17:00:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myTestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
